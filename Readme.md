@@ -12,7 +12,7 @@ This clone has following features.
 
 ## Live Link:
 
-[![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://netflix-clone-danesh.netlify.app/)]
+[![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://netflix-clone-danesh.netlify.app/)
 
 ## My Blog on Hashnode:
 
